@@ -1,6 +1,6 @@
 {
   "name": "prototypus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prototyping Environment Generator for Local Web Development",
   "main": "bin/index.js",
   "type": "module",
